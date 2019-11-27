@@ -1,5 +1,6 @@
 # Laravel_Project
 Gereksinimler;
-Composer
-XAMMP
-PhpStorm
+Xampp Kurulumu
+Composer Kurulumu
+phpStorm Kurulumu
+Laravel Projesi Oluşturma
